@@ -42,7 +42,7 @@ A scalable **backend inspired by Uber**, utilizing **Microservices, Docker, and 
 ### 🎖️ Achievements & Certifications
 - 🏆 **5-Star C++ Rating on HackerRank**
 - 🎯 **Completed 100 Days of DSA Challenge**
-- 💡 **Amdocs Hackathon Finalist**
+- 💡 **Amdocs Hackathon Coding Round Cleared**
 - 📜 Certified in **HTML/CSS/JavaScript (Coursera), C++ Programming (Udemy)**
 
 ---
