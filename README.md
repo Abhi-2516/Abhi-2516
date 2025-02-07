@@ -25,16 +25,16 @@
 ---
 
 ### 🔥 Featured Projects
-#### 🧑‍🎤 [Real-Time Sign Language Detection System](https://github.com/Abhi-2516/sign-detection)
+#### 🧑‍🎤 Real-Time Sign Language Detection System](https://github.com/Abhi-2516/sign-detection
 A real-time hand sign prediction model using **Python, OpenCV, and Mediapipe**, achieving **85% accuracy**.  
 
-#### 💪 [HealthyU - Gym Supplements E-Commerce Platform](https://github.com/Abhi-2516/healthy-u)
+#### 💪 HealthyU - Gym Supplements E-Commerce Platform](https://github.com/Abhi-2516/healthy-u
 An interactive **e-commerce store** with a BMI calculator, built with **MERN stack & Tailwind CSS**.  
 
-#### 💸 [Get Me A Chai - Crowdfunding Platform](https://github.com/Abhi-2516/get-me-a-chai)
+#### 💸 Get Me A Chai - Crowdfunding Platform](https://github.com/Abhi-2516/get-me-a-chai
 A **secure funds transfer** & crowdfunding platform built with **Next.js, MongoDB, and Stripe API**.  
 
-#### 🚗 [Microservices Architecture Project](https://github.com/Abhi-2516/microservices-uber)
+#### 🚗 Microservices Architecture Project](https://github.com/Abhi-2516/microservices-uber
 A scalable **backend inspired by Uber**, utilizing **Microservices, Docker, and AWS** (In Progress).  
 
 ---
