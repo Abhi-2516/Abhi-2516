@@ -1,6 +1,6 @@
 ### Hi there, I'm Abhishek Yadav! 👋
 
-🚀 **Aspiring Software Engineer | MERN Developer | ML & AI Enthusiast**  
+🚀 **Aspiring AWS  | MERN Developer | ML & AI Enthusiast**  
 🌏 **Building Scalable & Intelligent Solutions**
 
 ---
@@ -25,16 +25,16 @@
 ---
 
 ### 🔥 Featured Projects
-#### 🧑‍🎤 Real-Time Sign Language Detection System](https://github.com/Abhi-2516/sign-detection
+#### 🧑‍🎤 Real-Time Sign Language Detection System
 A real-time hand sign prediction model using **Python, OpenCV, and Mediapipe**, achieving **85% accuracy**.  
 
-#### 💪 HealthyU - Gym Supplements E-Commerce Platform](https://github.com/Abhi-2516/healthy-u
+#### 💪 HealthyU - Gym Supplements E-Commerce Platform
 An interactive **e-commerce store** with a BMI calculator, built with **MERN stack & Tailwind CSS**.  
 
-#### 💸 Get Me A Chai - Crowdfunding Platform](https://github.com/Abhi-2516/get-me-a-chai
+#### 💸 Get Me A Chai - Crowdfunding Platform
 A **secure funds transfer** & crowdfunding platform built with **Next.js, MongoDB, and Stripe API**.  
 
-#### 🚗 Microservices Architecture Project](https://github.com/Abhi-2516/microservices-uber
+#### 🚗 Microservices Architecture Project
 A scalable **backend inspired by Uber**, utilizing **Microservices, Docker, and AWS** (In Progress).  
 
 ---
@@ -56,9 +56,7 @@ A scalable **backend inspired by Uber**, utilizing **Microservices, Docker, and 
 
 ### 📫 Connect With Me
 🔗 [LinkedIn](http://www.linkedin.com/in/abhishek-yadav-059942251)  
-📂 [Portfolio](https://naukripayplacement.com/)  
 📝 [GitHub](https://github.com/Abhi-2516)  
 📧 **Email:** [2516abhi43@gmail.com](mailto:2516abhi43@gmail.com)  
 
 ⚡ *Let's build something amazing together!* 🚀
-
