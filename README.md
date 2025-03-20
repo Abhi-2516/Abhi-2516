@@ -34,8 +34,6 @@ An interactive **e-commerce store** with a BMI calculator, built with **MERN sta
 #### 💸 Get Me A Chai - Crowdfunding Platform
 A **secure funds transfer** & crowdfunding platform built with **Next.js, MongoDB, and Stripe API**.  
 
-#### 🚗 Microservices Architecture Project
-A scalable **backend inspired by Uber**, utilizing **Microservices, Docker, and AWS** (In Progress).  
 
 ---
 
