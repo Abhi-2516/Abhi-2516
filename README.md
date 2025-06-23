@@ -60,11 +60,6 @@
 
 ---
 
-## 📄 Resume
-
-📎 [Click to View My Resume (PDF)](./Abhishek%20Yadav%20%20April.pdf)
-
----
 
 ## 📫 Let's Connect
 
