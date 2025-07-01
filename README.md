@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Abhishek Yadav</h1>
 <p align="center">
-  🚀 Full-Stack Developer | 💡 AI/ML Enthusiast | ☁️ Cloud Practitioner (AWS) <br>
-  📍 B.Tech CSE @ VIT Bhopal | 🌱 Building scalable solutions at the intersection of tech & impact
+  🚀 Full-Stack Developer | 💡 AI/ML | ☁️ Cloud Practitioner (AWS) <br>
+  📍 B.Tech CSE @ VIT Bhopal
 </p>
 
 ---
