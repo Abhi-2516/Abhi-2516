@@ -3,7 +3,7 @@
 </div>
 <div align="center">
   <h1>
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=60&duration=2000&pause=1000&color=58A6FF&background=00000000&center=true&vCenter=true&multiline=true&width=800&height=120&lines=Hey+There!+%F0%9F%91%8B;I'm+Abhishek+Yadav;Full-Stack+Developer" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=50&duration=2500&pause=1200&color=58A6FF&background=00000000&center=true&vCenter=true&multiline=true&width=900&height=150&lines=Hey+There!+%F0%9F%91%8B;I'm+Abhishek+Yadav" alt="Typing SVG" />
   </h1>
 </div>
 <div align="center">
@@ -35,8 +35,9 @@
   <h3>📊 Profile Stats</h3>
   <img src="https://komarev.com/ghpvc/?username=Abhi-2516&style=for-the-badge&color=brightgreen&labelColor=black" alt="Profile Views" />
   <img src="https://img.shields.io/github/followers/Abhi-2516?style=for-the-badge&color=blue&labelColor=black" alt="GitHub Followers" />
-  <img src="https://img.shields.io/badge/Focus-Full%20Stack%20Development-brightgreen?style=for-the-badge&labelColor=black" alt="Focus" />
+  
 </div>
+
 ---
 
 ## 🧠 About Me
@@ -189,9 +190,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=Abhi-2516&theme=radical&show_icons=true&hide_border=true&count_private=true&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866&text_color=FFFFFF" alt="GitHub Stats" height="200" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhi-2516&theme=radical&show_icons=true&hide_border=true&layout=compact&bg_color=0D1117&title_color=F85D7F&text_color=FFFFFF" alt="Top Languages" height="200" />
 </div>
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=Abhi-2516&theme=radical&hide_border=true&background=0D1117&stroke=F85D7F&ring=F85D7F&fire=F8D866&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=F85D7F&sideLabels=F85D7F&dates=FFFFFF" alt="GitHub Streak" />
-</div>
+
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Abhi-2516&theme=github-compact&bg_color=0D1117&color=F85D7F&line=F8D866&point=FFFFFF&area=true&hide_border=true" alt="Contribution Graph" />
 </div>
@@ -207,6 +206,21 @@
 - 🌐 **HTML, CSS & JavaScript** - Coursera  
 - 📊 **Supply Chain Analytics** - NPTEL
 - 🎯 **Problem Solving & Data Structures** - Self-paced Learning
+
+---
+
+<div align="center">
+  <table>
+    <tr>
+      <td><img src="https://img.shields.io/badge/🚀-Full%20Stack%20Dev-FF6B6B?style=for-the-badge&logoColor=white" /></td>
+      <td><img src="https://img.shields.io/badge/📊-Data%20Engineering-45B7D1?style=for-the-badge&logoColor=white" /></td>
+    </tr>
+    <tr>
+      <td><img src="https://img.shields.io/badge/💻-Software%20Dev-96CEB4?style=for-the-badge&logoColor=white" /></td>
+      <td><img src="https://img.shields.io/badge/🤖-Machine%20Learning-9B59B6?style=for-the-badge&logoColor=white" /></td>
+    </tr>
+  </table>
+</div>
 
 ---
 
