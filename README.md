@@ -14,7 +14,7 @@
 ---
 
 ## 👋 About Me
-I'm **Abhishek Yadav**, a Final-year **B.Tech CSE (E-Commerce Technology)** student at **VIT Bhopal** (CGPA: 8.62) :contentReference[oaicite:1]{index=1}.
+I'm **Abhishek Yadav**, a Final-year **B.Tech CSE (E-Commerce Technology)** student at **Vellore Institute of Technology Bhopal**.
 
 I specialize in **Full-Stack Engineering, Serverless Cloud Architectures, and AI-powered solutions**.  
 I love designing systems that scale, optimizing performance, and turning impactful ideas into production-ready applications.
