@@ -111,10 +111,7 @@ Git • GitHub • Postman • AWS CDK
 
 ## 📊 GitHub Insights
 
-<p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=Abhi-2516&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhi-2516&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
+
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Abhi-2516&theme=tokyo-night&hide_border=true" />
