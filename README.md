@@ -92,11 +92,18 @@ Git • GitHub • Postman • AWS CDK
 ---
 
 ## 🏆 Achievements
-- **Finalist** — IIT BHU HealthTech AI Hackathon  
-- **Finalist** — Consultadd Odyssey of Code  
-- **Semi-Finalist** — IIT Hyderabad Bosch (BGSW) Hackathon  
-- **Semi-Finalist** — TVS Eurogrip TORQ Challenge 3.0  
-- Solved **400+ DSA problems** on LeetCode  
+
+- ⭐ **5-Star C++ Rating** on HackerRank  
+- 🔥 **Completed 100 Days of DSA Challenge**  
+- 🎯 **Cleared Amdocs Graduate Gen AI Hackathon Coding Round**  
+- 🥇 **Finalist – HealthTech AI Hackathon, Spirit’25, IIT BHU**  
+- 🥈 **Semi-Finalist – Eurogrip TORQ Challenge 3.0 (TVS Eurogrip, 2025)**  
+- 🥈 **Semi-Finalist – Bosch (BGSW) Hackathon, IIT Hyderabad, 2025**  
+- 🥈 **Semi-Finalist – HackFiniti 2025 (B V Raju Institute of Technology, Narsapur)**  
+- 🥇 **Finalist – Consultadd Hackathon – Odyssey of Code**  
+- 🏅 **Secured 9th Place out of 120+ Teams – Sustainovate’25 (48-hour hackathon)**  
+
+- Solved **400+  problems** on LeetCode  
 - Technical Core Member — E-Commerce Club  
 
 
