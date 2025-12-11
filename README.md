@@ -104,7 +104,7 @@ Git • GitHub • Postman • AWS CDK
 - 🏅 **Secured 9th Place out of 120+ Teams – Sustainovate’25 (48-hour hackathon)**  
 
 - Solved **400+  problems** on LeetCode  
-- Technical Core Member — E-Commerce Club  
+- Technical Core Member — E-Commerce Club(VIT Bhopal)
 
 
 ---
