@@ -19,27 +19,70 @@ I'm **Abhishek Yadav**, a Final-year B.Tech in Computer Science  student at **Ve
 I specialize in **Full-Stack Engineering, Serverless Cloud Architectures, and AI-powered solutions**.  
 I love designing systems that scale, optimizing performance, and turning impactful ideas into production-ready applications.
 
----
+# 🧠 Tech Expertise
 
-## 🧠 Tech Expertise
+### 🚀 **Languages**
 
-### **Languages**
-C++, Java, JavaScript (ES6+), TypeScript, Python, SQL, HTML, CSS 
-
-### **Frameworks & Libraries**
-React • Next.js • Node.js • Express • Prisma ORM • Tailwind CSS 
-
-### **Cloud & DevOps**
-AWS (Lambda, S3, CloudFront, API Gateway, DynamoDB, Cognito, EC2, SQS, SNS) •  
-Docker • CI/CD • Serverless • IaC • Microservices • System Design 
-
-### **Databases**
-PostgreSQL • MongoDB • DynamoDB 
-
-### **Tools**
-Git • GitHub • Postman • AWS CDK 
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=cpp" height="40" />
+  <img src="https://skillicons.dev/icons?i=java" height="40" />
+  <img src="https://skillicons.dev/icons?i=js" height="40" />
+  <img src="https://skillicons.dev/icons?i=ts" height="40" />
+  <img src="https://skillicons.dev/icons?i=python" height="40" />
+  <img src="https://skillicons.dev/icons?i=html" height="40" />
+  <img src="https://skillicons.dev/icons?i=css" height="40" />
+  <img src="https://skillicons.dev/icons?i=postgres" height="40" />
+  <img src="https://skillicons.dev/icons?i=mysql" height="40" />
+</p>
 
 ---
+
+### 🧩 **Frameworks & Libraries**
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=react" height="40" />
+  <img src="https://skillicons.dev/icons?i=nextjs" height="40" />
+  <img src="https://skillicons.dev/icons?i=nodejs" height="40" />
+  <img src="https://skillicons.dev/icons?i=express" height="40" />
+  <img src="https://skillicons.dev/icons?i=prisma" height="40" />
+  <img src="https://skillicons.dev/icons?i=tailwind" height="40" />
+</p>
+
+---
+
+### ☁️ **Cloud & DevOps**
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=aws" height="40" />
+  <img src="https://skillicons.dev/icons?i=docker" height="40" />
+  <img src="https://skillicons.dev/icons?i=jenkins" height="40" />
+  <img src="https://skillicons.dev/icons?i=githubactions" height="40" />
+  <img src="https://skillicons.dev/icons?i=cloudflare" height="40" />
+</p>
+
+---
+
+### 🗄️ **Databases**
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=postgres" height="40" />
+  <img src="https://skillicons.dev/icons?i=mongodb" height="40" />
+  <img src="https://skillicons.dev/icons?i=dynamodb" height="40" />
+</p>
+
+---
+
+### 🛠️ **Tools**
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git" height="40" />
+  <img src="https://skillicons.dev/icons?i=github" height="40" />
+  <img src="https://skillicons.dev/icons?i=postman" height="40" />
+  <img src="https://skillicons.dev/icons?i=aws" height="40" />
+</p>
+
+---
+
 
 ## 💼 Professional Experience
 
