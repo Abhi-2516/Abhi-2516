@@ -24,20 +24,20 @@ I love designing systems that scale, optimizing performance, and turning impactf
 ## 🧠 Tech Expertise
 
 ### **Languages**
-C++, Java, JavaScript (ES6+), TypeScript, Python, SQL, HTML, CSS :contentReference[oaicite:2]{index=2}
+C++, Java, JavaScript (ES6+), TypeScript, Python, SQL, HTML, CSS 
 
 ### **Frameworks & Libraries**
-React • Next.js • Node.js • Express • Prisma ORM • Tailwind CSS :contentReference[oaicite:3]{index=3}
+React • Next.js • Node.js • Express • Prisma ORM • Tailwind CSS 
 
 ### **Cloud & DevOps**
 AWS (Lambda, S3, CloudFront, API Gateway, DynamoDB, Cognito, EC2, SQS, SNS) •  
-Docker • CI/CD • Serverless • IaC • Microservices • System Design :contentReference[oaicite:4]{index=4}
+Docker • CI/CD • Serverless • IaC • Microservices • System Design 
 
 ### **Databases**
-PostgreSQL • MongoDB • DynamoDB :contentReference[oaicite:5]{index=5}
+PostgreSQL • MongoDB • DynamoDB 
 
 ### **Tools**
-Git • GitHub • Postman • AWS CDK :contentReference[oaicite:6]{index=6}
+Git • GitHub • Postman • AWS CDK 
 
 ---
 
@@ -45,11 +45,11 @@ Git • GitHub • Postman • AWS CDK :contentReference[oaicite:6]{index=6}
 
 ### **Software Development Intern — Bluestock Fintech, Pune (Apr–May 2025)**
 - Designed and architected a **production-ready fintech system** with full-stack technologies  
-- Enabled **100% deployment readiness**, supporting enterprise-scale users :contentReference[oaicite:7]{index=7}
+- Enabled **100% deployment readiness**, supporting enterprise-scale users 
 
 ### **Co-Founder — WebLab (India) (Dec 2024–Feb 2025)**
 - Built **NaukriPayPlacement.com** on WordPress based on client requirements  
-- Improved deployment time and **boosted SEO performance significantly** :contentReference[oaicite:8]{index=8}
+- Improved deployment time and **boosted SEO performance significantly** 
 
 ---
 
@@ -60,8 +60,7 @@ Git • GitHub • Postman • AWS CDK :contentReference[oaicite:6]{index=6}
 - Deployed heritage e-commerce website on AWS, **increasing artisan revenue**  
 - Built secure payments, responsive UI, and JWT-based authentication  
 - Implemented MERN architecture with admin dashboards  
-**➡ GitHub | Live**  
-:contentReference[oaicite:9]{index=9}
+
 
 ---
 
@@ -70,8 +69,7 @@ Git • GitHub • Postman • AWS CDK :contentReference[oaicite:6]{index=6}
 - Production-ready emergency alert platform with **global availability**  
 - Integrated interactive maps for real-time disaster reporting  
 - CDN + performance optimizations for significantly faster load times  
-**➡ GitHub | Live**  
-:contentReference[oaicite:10]{index=10}
+
 
 ---
 
@@ -80,8 +78,7 @@ Git • GitHub • Postman • AWS CDK :contentReference[oaicite:6]{index=6}
 - Real-time insights on **100+ industries**  
 - ATS-optimized **AI resume & cover letter generator**  
 - AI mock interview engine with analytics  
-**➡ GitHub | Live**  
-:contentReference[oaicite:11]{index=11}
+
 
 ---
 
@@ -90,8 +87,7 @@ Git • GitHub • Postman • AWS CDK :contentReference[oaicite:6]{index=6}
 - Fully serverless note-processing pipeline with NLP summaries  
 - Event-driven architecture (S3 → SQS → Lambda)  
 - Global secure access with CloudFront + email notifications via SNS  
-**➡ GitHub**  
-:contentReference[oaicite:12]{index=12}
+
 
 ---
 
@@ -102,14 +98,14 @@ Git • GitHub • Postman • AWS CDK :contentReference[oaicite:6]{index=6}
 - **Semi-Finalist** — TVS Eurogrip TORQ Challenge 3.0  
 - Solved **400+ DSA problems** on LeetCode  
 - Technical Core Member — E-Commerce Club  
-:contentReference[oaicite:13]{index=13}
+
 
 ---
 
 ## 🎓 Certifications
 - Oracle OCI & Data Platform 2025 Certified Foundations Associate  
 - AWS Cloud Practitioner Badge  
-:contentReference[oaicite:14]{index=14}
+
 
 ---
 
