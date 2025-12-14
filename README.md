@@ -7,7 +7,7 @@
 
 <p align="center">
   <strong>Building scalable systems • Cloud-native architectures • AI-driven applications</strong><br />
-  <strong>Inspired to solve Business problems with my development and Analytics Skills</strong>
+  <strong>Inspired to solve Business problems with my development and Analytic Skills</strong>
 </p>
 
 <br/>
