@@ -3,7 +3,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=gradient&text=Abhishek%20Yadav&fontSize=45&fontAlignY=32&animation=twinkling" />
 </p>
 
-<h1 align="center">🚀 Full-Stack Developer | Cloud & AI Engineer</h1>
+<h1 align="center">🚀 Full-Stack Developer | Cloud & AI Engineer|Bussiness Oriented</h1>
 
 <p align="center">
   <strong>Building scalable systems • Cloud-native architectures • AI-driven applications</strong>
