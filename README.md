@@ -6,7 +6,7 @@
 <h1 align="center">🚀 Full-Stack Developer | Cloud & AI Engineer | Bussiness Oriented</h1>
 
 <p align="center">
-  <strong>Building scalable systems • Cloud-native architectures • AI-driven applications</strong>
+  <strong>Building scalable systems • Cloud-native architectures • AI-driven applications</strong><br />
   <strong>Inspired to solve Bussiness problems with my development and Analysis Skills</strong>
 </p>
 
