@@ -3,11 +3,11 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=gradient&text=Abhishek%20Yadav&fontSize=45&fontAlignY=32&animation=twinkling" />
 </p>
 
-<h1 align="center">🚀 Full-Stack Developer | Cloud & AI Engineer | Bussiness Oriented</h1>
+<h1 align="center">🚀 Full-Stack Developer | Cloud & AI Engineer | Business Oriented</h1>
 
 <p align="center">
   <strong>Building scalable systems • Cloud-native architectures • AI-driven applications</strong><br />
-  <strong>Inspired to solve Bussiness problems with my development and Analysis Skills</strong>
+  <strong>Inspired to solve Business problems with my development and Analytics Skills</strong>
 </p>
 
 <br/>
