@@ -153,7 +153,7 @@ I love designing systems that scale, optimizing performance, and turning impactf
 
 ---
 
-## 🎓 Certifications
+## 🎓 Certifications AND Badges
 - Oracle OCI & Data Platform 2025 Certified Foundations Associate  
 - AWS Cloud Practitioner Badge  
 
